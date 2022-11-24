@@ -3,3 +3,4 @@ ikinci gun ikinci deneme
 ikinci gun üçüncü deneme
 ikinci gun dorduncu deneme oguz branchı
 ikinci gun besinci deneme master branchı
+ikinci gun altıncı deneme oguz branchı
